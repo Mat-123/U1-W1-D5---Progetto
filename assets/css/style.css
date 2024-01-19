@@ -41,7 +41,7 @@ main img {
 nav {
   background-image: url(../images/banner.jpg);
   background-position: center;
-  background-size: contain;
+  background-size: cover;
   width: 100%;
 }
 
