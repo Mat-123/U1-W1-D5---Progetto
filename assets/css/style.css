@@ -1,0 +1,84 @@
+/* General */
+
+* {
+  box-sizing: border-box;
+}
+/*Header section*/
+header {
+  background-color: black;
+  text-align: center;
+  height: 15vh;
+  background-repeat: no-repeat;
+}
+
+header img {
+  max-width: 35%;
+}
+/*Main Section*/
+main {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  inline-size: 1.65;
+  font-size: 1.2rem;
+  color: #393d41;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  inline-size: 1.5;
+  color: #25a2c3;
+}
+
+main img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+/*Main Section Parts*/
+
+nav {
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  background-size: contain;
+  width: 100%;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.gobutt {
+  background-color: #f04c2f;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 3px;
+}
+
+.box {
+  border-color: 2px #dee1e3;
+  width: 80%;
+}
+
+.notif {
+  background-color: #d73639;
+}
+
+/*Footer Section*/
+
+footer {
+  text-align: center;
+  color: #c8e7f0;
+  background-color: #25a2c3;
+}
+
+footer p {
+  padding: 15px;
+}
+
+hr {
+  width: 50%;
+}
