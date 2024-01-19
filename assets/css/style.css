@@ -67,6 +67,10 @@ button {
   background-color: #d73639;
 }
 
+.pquote {
+  font-style: italic;
+}
+
 /*Footer Section*/
 
 footer {
