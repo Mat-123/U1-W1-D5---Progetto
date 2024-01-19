@@ -24,12 +24,21 @@ main {
   text-align: center;
 }
 
+div {
+  padding: 8%;
+}
+
 h1,
 h2,
 h3 {
   font-family: "Montserrat", sans-serif;
   inline-size: 1.5;
   color: #25a2c3;
+  padding: 8%;
+}
+
+p {
+  padding: 8%;
 }
 
 main img {
@@ -43,6 +52,7 @@ nav {
   background-position: center;
   background-size: cover;
   width: 100%;
+  padding: 10%;
 }
 
 button {
