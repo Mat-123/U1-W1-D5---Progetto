@@ -47,7 +47,6 @@ nav {
 
 button {
   font-family: "Montserrat", sans-serif;
-  font-weight: bold;
 }
 
 .gobutt {
@@ -56,6 +55,7 @@ button {
   padding-left: 15px;
   padding-right: 15px;
   border-radius: 3px;
+  font-weight: bold;
 }
 
 .box {
